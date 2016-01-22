@@ -1,0 +1,50 @@
+[Fri Jan 22 11:09:01 2016] INFO: Opened log file Urho3D.log
+[Fri Jan 22 11:09:01 2016] INFO: Created 1 worker thread
+[Fri Jan 22 11:09:01 2016] INFO: Added resource path D:/MyGames/Urho3DTerraria/Urho3DTerraria/Result/Data/
+[Fri Jan 22 11:09:01 2016] INFO: Added resource path D:/MyGames/Urho3DTerraria/Urho3DTerraria/Result/CoreData/
+[Fri Jan 22 11:09:01 2016] INFO: Added resource path D:/MyGames/Urho3DTerraria/Urho3DTerraria/Result/MyData/
+[Fri Jan 22 11:09:01 2016] DEBUG: Skipped autoload path 'Autoload' as it does not exist, check the documentation on how to set the 'resource prefix path'
+[Fri Jan 22 11:09:03 2016] INFO: Set screen mode 800x600 windowed
+[Fri Jan 22 11:09:03 2016] INFO: Initialized input
+[Fri Jan 22 11:09:03 2016] INFO: Initialized user interface
+[Fri Jan 22 11:09:03 2016] DEBUG: Loading resource Textures/Ramp.png
+[Fri Jan 22 11:09:03 2016] DEBUG: Loading temporary resource Textures/Ramp.xml
+[Fri Jan 22 11:09:03 2016] DEBUG: Loading resource Textures/Spot.png
+[Fri Jan 22 11:09:03 2016] DEBUG: Loading temporary resource Textures/Spot.xml
+[Fri Jan 22 11:09:03 2016] DEBUG: Loading resource Techniques/NoTexture.xml
+[Fri Jan 22 11:09:03 2016] DEBUG: Loading resource RenderPaths/Forward.xml
+[Fri Jan 22 11:09:03 2016] INFO: Initialized renderer
+[Fri Jan 22 11:09:04 2016] INFO: Set audio mode 44100 Hz stereo interpolated
+[Fri Jan 22 11:09:04 2016] DEBUG: Loading resource UI/MessageBox.xml
+[Fri Jan 22 11:09:04 2016] DEBUG: Loading UI layout UI/MessageBox.xml
+[Fri Jan 22 11:09:04 2016] INFO: Initialized engine
+[Fri Jan 22 11:09:04 2016] DEBUG: Loading resource Strings.json
+[Fri Jan 22 11:09:04 2016] DEBUG: Loading resource Urho2D/Box.png
+[Fri Jan 22 11:09:04 2016] DEBUG: Loading resource Urho2D/Ball.png
+[Fri Jan 22 11:09:04 2016] DEBUG: Loading resource Models/Plane.mdl
+[Fri Jan 22 11:09:04 2016] DEBUG: Loading resource Materials/StoneTiled.xml
+[Fri Jan 22 11:09:04 2016] DEBUG: Loading resource Techniques/DiffNormalPacked.xml
+[Fri Jan 22 11:09:04 2016] DEBUG: Loading resource Techniques/Diff.xml
+[Fri Jan 22 11:09:04 2016] DEBUG: Loading resource Textures/StoneDiffuse.dds
+[Fri Jan 22 11:09:04 2016] DEBUG: Loading resource Textures/StoneNormal.dds
+[Fri Jan 22 11:09:04 2016] DEBUG: Loading resource Fonts/Ubuntu-B.ttf
+[Fri Jan 22 11:09:04 2016] DEBUG: Font face Ubuntu-B (30pt) has 1264 glyphs
+[Fri Jan 22 11:09:04 2016] DEBUG: Loading resource Models/Jack.mdl
+[Fri Jan 22 11:09:04 2016] DEBUG: Loading resource Materials/Jack.xml
+[Fri Jan 22 11:09:04 2016] DEBUG: Loading resource UI/DefaultStyle.xml
+[Fri Jan 22 11:09:04 2016] DEBUG: Loading resource Fonts/Anonymous Pro.ttf
+[Fri Jan 22 11:09:04 2016] DEBUG: Font face Anonymous Pro (11pt) has 624 glyphs
+[Fri Jan 22 11:09:04 2016] DEBUG: Reloading shaders
+[Fri Jan 22 11:09:04 2016] DEBUG: Loading resource Shaders/GLSL/LitSolid.glsl
+[Fri Jan 22 11:09:04 2016] DEBUG: Compiled vertex shader LitSolid(DIRLIGHT NORMALMAP PERPIXEL)
+[Fri Jan 22 11:09:04 2016] DEBUG: Compiled pixel shader LitSolid(AMBIENT DIFFMAP DIRLIGHT NORMALMAP PACKEDNORMAL PERPIXEL SPECULAR)
+[Fri Jan 22 11:09:04 2016] DEBUG: Linked vertex shader LitSolid(DIRLIGHT NORMALMAP PERPIXEL) and pixel shader LitSolid(AMBIENT DIFFMAP DIRLIGHT NORMALMAP PACKEDNORMAL PERPIXEL SPECULAR)
+[Fri Jan 22 11:09:04 2016] WARNING: Shader LitSolid(DIRLIGHT NOUV PERPIXEL SKINNED) does not use the define NOUV
+[Fri Jan 22 11:09:04 2016] DEBUG: Compiled vertex shader LitSolid(DIRLIGHT NOUV PERPIXEL SKINNED)
+[Fri Jan 22 11:09:04 2016] DEBUG: Compiled pixel shader LitSolid(AMBIENT DIRLIGHT PERPIXEL SPECULAR)
+[Fri Jan 22 11:09:04 2016] DEBUG: Linked vertex shader LitSolid(DIRLIGHT NOUV PERPIXEL SKINNED) and pixel shader LitSolid(AMBIENT DIRLIGHT PERPIXEL SPECULAR)
+[Fri Jan 22 11:09:04 2016] DEBUG: Loading resource Shaders/GLSL/Basic.glsl
+[Fri Jan 22 11:09:04 2016] DEBUG: Compiled vertex shader Basic(DIFFMAP VERTEXCOLOR)
+[Fri Jan 22 11:09:04 2016] DEBUG: Compiled pixel shader Basic(DIFFMAP VERTEXCOLOR)
+[Fri Jan 22 11:09:04 2016] DEBUG: Linked vertex shader Basic(DIFFMAP VERTEXCOLOR) and pixel shader Basic(DIFFMAP VERTEXCOLOR)
+[Fri Jan 22 11:09:05 2016] DEBUG: Loading resource Models/Jack_Walk.ani

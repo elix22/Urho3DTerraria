@@ -1,0 +1,22 @@
+{
+	"Language":{
+		"en":"Language: English",
+		"ru":"Язык: Русский"
+	},
+	"New Game":{
+		"en":"New Game",
+		"ru":"Новая игра"
+	},
+	"Resume":{
+		"en":"Resume",
+		"ru":"Продолжить"
+	},
+	"Settings":{
+		"en":"Settings",
+		"ru":"Настройки"
+	},
+	"Quit":{
+		"en":"Quit",
+		"ru":"Выход"
+	}
+}
