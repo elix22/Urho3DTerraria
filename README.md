@@ -8,3 +8,5 @@ W - jump<br>
 
 ![Screen](https://raw.githubusercontent.com/1vanK/Urho3DTerraria/master/Screen.png)
 
+License: Public Domain
+
